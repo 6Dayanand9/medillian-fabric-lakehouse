@@ -1,0 +1,17 @@
+[
+  {
+    "source_url": "refs/heads/main/Structure_Data/Orders_Data.csv",
+    "sink_folder": "ShoppingMart_Bronze_Order",
+    "sink_file": "ShoppingMart_orders.csv"
+  },
+  {
+    "source_url": "refs/heads/main/Structure_Data/customers.csv",
+    "sink_folder": "ShoppingMart_Bronze_customer",
+    "sink_file": "ShoppingMart_customer.csv"
+  },
+  {
+    "source_url": "refs/heads/main/Structure_Data/products.csv",
+    "sink_folder": "ShoppingMart_Bronze_product",
+    "sink_file": "ShoppingMart_product.csv"
+  }
+]
